@@ -1,11 +1,11 @@
 # Next-Gen Financial Insights
 
-### Dashboard Link :
-
 ## Problem Statement
 
 This dashboard provides a comprehensive analysis of car sales data, enabling stakeholders to make data-driven decisions. By visualizing key performance metrics, the dashboard highlights revenue trends, profitability, and growth opportunities. It also identifies high-performing car segments and time-series trends, empowering businesses to focus on strategic areas to enhance performance.
 
+# Report Snapshot (Power BI DESKTOP)
+![Next-Gen_Dashboard_OV](https://github.com/user-attachments/assets/5b518a62-67bf-4cb0-87d2-339e9514400b)
 
 ### Steps followed 
 
@@ -31,10 +31,6 @@ This dashboard provides a comprehensive analysis of car sales data, enabling sta
         High-granular detais shows number of cars sold, Avg cars price, YTD Total sales and % of Contribution in sales.
         
 - Step 11 : Published the report to Power BI Service for seamless sharing and accessibility.
-
-# Report Snapshot (Power BI DESKTOP)
-![Next-Gen_Dashboard_OV](https://github.com/user-attachments/assets/5b518a62-67bf-4cb0-87d2-339e9514400b)
-
 
 # Insights
 
